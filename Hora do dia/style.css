@@ -26,6 +26,9 @@ div{
     font-size: 0.8rem;
     margin: 10px;
 }
+#msg2{
+    font-size: 2rem;
+}
 footer{
     color: white;
     margin-top:10px;
