@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/Hugovarellaa/Curso-em-video
+$ git clone https://github.com/Hugovarellaa/Super-Contador
 $ cd Curso-em-video
 ```
 
